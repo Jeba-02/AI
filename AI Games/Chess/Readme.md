@@ -117,8 +117,8 @@ Chess has significant computational complexity:
 
 ## Screenshots
 
-![ScreenShot1](path_to_chess_start.png)
-![ScreenShot2](path_to_chess_midgame.png)
+![ScreenShot1](https://github.com/Jeba-02/AI/blob/main/AI%20Games/Chess/Screenshot%202025-10-25%20215508.png)
+![ScreenShot2](https://github.com/Jeba-02/AI/blob/main/AI%20Games/Chess/Screenshot%202025-10-25%20215521.png)
 
 
 ## Future Enhancements
@@ -131,3 +131,4 @@ Potential improvements that could be added:
 5. Game save/load functionality
 6. Previous move highlighting
 7. Move notation display
+
