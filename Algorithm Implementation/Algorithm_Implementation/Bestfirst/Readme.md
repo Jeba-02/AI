@@ -29,4 +29,5 @@ Unlike BFS (Breadth-First Search), which explores all nodes level by level, Best
 - Space Complexity:  O(b^d) 
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/Bestfirst/Screenshot.png)
+
