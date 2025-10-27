@@ -26,5 +26,6 @@ The *Breadth-First Search (BFS)* algorithm explores a graph level by level, star
    b = branching factor, d = depth of the shallowest goal node.
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/BFS/Screenshot.png)
+
 
