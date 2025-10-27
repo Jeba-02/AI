@@ -29,5 +29,6 @@ These two searches continue until they meet in the middle — drastically reduci
 - Space Complexity: O(b^(d/2))
  
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/Bidirectional/Screenshot.png)
+
 
