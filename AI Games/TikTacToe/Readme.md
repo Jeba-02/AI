@@ -92,8 +92,8 @@ The Minimax algorithm explores this game tree to make optimal decisions, ensurin
 
 ## Screenshots
 
-![ScreenShots](path_to_start_screenshot.png)
-![ScreenShots](path_to_mid_game_screenshot.png)
+![ScreenShot1](https://github.com/Jeba-02/AI/blob/main/AI%20Games/TikTacToe/Screenshot%202025-10-25%20215954.png)
+![ScreenShot2](https://github.com/Jeba-02/AI/blob/main/AI%20Games/TikTacToe/Screenshot%202025-10-25%20220003.png)
 
 ## Future Enhancements
 
@@ -103,3 +103,4 @@ Possible improvements that could be added:
 3. Game history
 4. Animation effects
 5. Sound effects
+
