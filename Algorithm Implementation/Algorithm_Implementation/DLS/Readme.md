@@ -33,8 +33,9 @@ Where:  b = branching factor, l = depth limit
 DLS can miss the goal if it lies beyond the depth limit, but it saves both time and space.
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot1.png)
-![ Input_Output_Screenshot](screenshot2.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/DLS/Screenshot1.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/DLS/Screenshot2.png)
+
 
 
 
