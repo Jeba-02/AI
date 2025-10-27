@@ -43,4 +43,5 @@ If at any point β ≤ α, the remaining branches will not be explored (because 
 - Space complexity:O(b*d)
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/AlphaBeta/Screenshot.png)
