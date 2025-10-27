@@ -115,8 +115,8 @@ def minimax(board, depth, alpha, beta, maximizingPlayer):
 
 ## Screenshots
 
-![ScreenShot1](path_to_connect4_start.png)
-![ScreenShot2](path_to_connect4_midgame.png)
+![ScreenShot1](https://github.com/Jeba-02/AI/blob/main/AI%20Games/Connect%20Four/Screenshot%202025-10-25%20215754.png)
+![ScreenShot2](https://github.com/Jeba-02/AI/blob/main/AI%20Games/Connect%20Four/Screenshot%202025-10-25%20215847.png)
 
 
 ## Future Enhancements
@@ -130,3 +130,4 @@ Possible improvements that could be added:
 6. Custom board sizes
 7. AI vs AI mode for analysis
 8. Opening book implementation
+
