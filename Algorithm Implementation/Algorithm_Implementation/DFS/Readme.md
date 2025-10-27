@@ -29,4 +29,5 @@ DFS can be implemented *recursively* or *using a stack*.
 - Space complexity:O(b*m)
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/DFS/Screenshot%20.png)
