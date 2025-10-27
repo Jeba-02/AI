@@ -35,4 +35,5 @@ MIN nodes choose the minimum value of their children.
 Where - b =branching factor,d=depth of the game tree
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/Minimax/Screenshot.png)
