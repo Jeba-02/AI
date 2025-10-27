@@ -45,4 +45,5 @@ b= branching factor
 d=depth of the solution
 
 # Input/Output Screenshot
-![ Input_Output_Screenshot](screenshot.png)
+![ Input_Output_Screenshot](https://github.com/Jeba-02/AI/blob/main/Algorithm%20Implementation/Algorithm_Implementation/A_star/Screenshot.png)
+
